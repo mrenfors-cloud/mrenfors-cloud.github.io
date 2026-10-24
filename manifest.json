@@ -1,0 +1,13 @@
+{
+  "name": "Nära",
+  "short_name": "Nära",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3E9D3",
+  "theme_color": "#1745A0",
+  "lang": "sv",
+  "icons": [
+    { "src": "/icon-192.png?v=rosa2", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png?v=rosa2", "sizes": "512x512", "type": "image/png" }
+  ]
+}
